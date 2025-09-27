@@ -18,7 +18,7 @@ class _OrdersScreenState extends State<OrdersScreen> with SingleTickerProviderSt
     
     // Set status bar style
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
-      statusBarColor: Colors.transparent,
+      statusBarColor: const Color.fromARGB(0, 255, 255, 255),
       statusBarIconBrightness: Brightness.dark,
       statusBarBrightness: Brightness.light,
     ));
