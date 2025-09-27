@@ -2,7 +2,58 @@
 
 A new Flutter project.
 
-## Getting Started
+## Directory Tree Structure
+
+📂 flutter_project/
+┣━━ 📂 assets/
+┃   ┣━━ 📂 icons/
+┃   ┗━━ 📂 images/
+┣━━ 📂 build/
+┣━━ 📂 lib/
+┃   ┣━━ 📂 modals/
+┃   ┃   ┣━━ 📜 category_modal.dart
+┃   ┃   ┣━━ 📜 featured_items_modal.dart
+┃   ┃   ┗━━ 📜 product_details_model.dart
+┃   ┣━━ 📂 screen/
+┃   ┃   ┣━━ 📜 home_screen.dart
+┃   ┃   ┣━━ 📜 order_screen.dart
+┃   ┃   ┣━━ 📜 order_tracking_screen.dart
+┃   ┃   ┣━━ 📜 product_details_screen.dart
+┃   ┃   ┗━━ 📜 profile_screen.dart
+┃   ┣━━ 📂 widgets/
+┃   ┃   ┣━━ 📜 bottom_bar.dart
+┃   ┃   ┗━━ 📜 app.dart
+┃   ┗━━ 📜 main.dart
+┗━━ ... (other project files like pubspec.yaml)
+
+
+### UI
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/ui/home.png" alt="Home Screen" width="250"/>
+      <br>
+      <em>Home Screen</em>
+    </td>
+    <td align="center">
+      <img src="assets/ui/product.png" alt="Product Screen" width="250"/>
+      <br>
+      <em>Product Screen</em>
+    </td>
+    <td align="center">
+      <img src=""assets/ui/order.png" alt="order" width="250"/>
+      <br>
+      <em>Order Screen</em>
+    </td>
+    <td align="center">
+      <img src=""assets/ui/track.png" alt="ttracking" width="250"/>
+      <br>
+      <em>Order Tracking Screen</em>
+    </td>
+  </tr>
+</table>
+
+#### Getting Started
 
 This project is a starting point for a Flutter application.
 
