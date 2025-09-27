@@ -2,9 +2,38 @@
 
 A new Flutter project.
 
-## Directory Tree Structure
 
-📂 flutter_project/
+
+
+## UI
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/ui/home.jpg" alt="Home Screen" width="250"/>
+      <br>
+      <em>Home Screen</em>
+    </td>
+    <td align="center">
+      <img src="assets/ui/product.jpg" alt="Product Screen" width="250"/>
+      <br>
+      <em>Product Screen</em>
+    </td>
+    <td align="center">
+      <img src="assets/ui/order.jpg" alt="order" width="250"/>
+      <br>
+      <em>Order Screen</em>
+    </td>
+    <td align="center">
+      <img src="assets/ui/track.jpg" alt="tracking" width="250"/>
+      <br>
+      <em>Order Tracking Screen</em>
+    </td>
+  </tr>
+</table>
+
+### Directory Tree Structure
+```
+project files like pubspec.yaml)📂 flutter_project/
 ┣━━ 📂 assets/
 ┃   ┣━━ 📂 icons/
 ┃   ┗━━ 📂 images/
@@ -25,33 +54,7 @@ A new Flutter project.
 ┃   ┃   ┗━━ 📜 app.dart
 ┃   ┗━━ 📜 main.dart
 ┗━━ ... (other project files like pubspec.yaml)
-
-
-### UI
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/ui/home.png" alt="Home Screen" width="250"/>
-      <br>
-      <em>Home Screen</em>
-    </td>
-    <td align="center">
-      <img src="assets/ui/product.png" alt="Product Screen" width="250"/>
-      <br>
-      <em>Product Screen</em>
-    </td>
-    <td align="center">
-      <img src=""assets/ui/order.png" alt="order" width="250"/>
-      <br>
-      <em>Order Screen</em>
-    </td>
-    <td align="center">
-      <img src=""assets/ui/track.png" alt="ttracking" width="250"/>
-      <br>
-      <em>Order Tracking Screen</em>
-    </td>
-  </tr>
-</table>
+```
 
 #### Getting Started
 

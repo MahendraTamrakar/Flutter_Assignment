@@ -299,7 +299,7 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
         });
       },
       child: Container(
-        padding: EdgeInsets.symmetric(horizontal: 30, vertical: 8),
+        padding: EdgeInsets.symmetric(horizontal: 28, vertical: 8),
         decoration: BoxDecoration(
           color: isSelected ? Color.fromARGB(255, 255, 255, 255) : Color(0xFFF0F2F5),
           borderRadius: BorderRadius.circular(10),
