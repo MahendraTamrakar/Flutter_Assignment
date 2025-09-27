@@ -19,12 +19,12 @@ A new Flutter project.
       <em>Product Screen</em>
     </td>
     <td align="center">
-      <img src=""assets/ui/order.jpg" alt="order" width="250"/>
+      <img src="assets/ui/order.jpg" alt="order" width="250"/>
       <br>
       <em>Order Screen</em>
     </td>
     <td align="center">
-      <img src=""assets/ui/track.jpg" alt="ttracking" width="250"/>
+      <img src="assets/ui/track.jpg" alt="tracking" width="250"/>
       <br>
       <em>Order Tracking Screen</em>
     </td>
@@ -32,8 +32,8 @@ A new Flutter project.
 </table>
 
 ### Directory Tree Structure
-
-📂 flutter_project/
+```
+project files like pubspec.yaml)📂 flutter_project/
 ┣━━ 📂 assets/
 ┃   ┣━━ 📂 icons/
 ┃   ┗━━ 📂 images/
@@ -54,6 +54,7 @@ A new Flutter project.
 ┃   ┃   ┗━━ 📜 app.dart
 ┃   ┗━━ 📜 main.dart
 ┗━━ ... (other project files like pubspec.yaml)
+```
 
 #### Getting Started
 
